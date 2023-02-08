@@ -1,2 +1,3 @@
 # Curriculum
-Intento de curriculum en html y css
+Tarea diseño-curriculum en html y css
+
